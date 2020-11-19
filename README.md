@@ -17,4 +17,12 @@ Before using it, get the below listed things done:
         
   4. Add the downloaded browser driver to System Environmental Variable Path.
   
-  5. Let's Go...
+  5. In order to use Twilio...
+        1. Go to www.twilio.com/referral/ukJ2bF
+        2. Register to new account.
+        3. Go to https://www.twilio.com/console
+        4. Get the trial number and add it to "From" number.
+        5. Copy the ACCOUNT SID & AUTH TOKEN.
+        6. Paste it the respective field inside the Python code.
+
+  6. Lets's Go
