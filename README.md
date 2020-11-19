@@ -8,7 +8,7 @@ Before using it, get the below listed things done:
         1. pip install selenium
         2. pip install pyautogui
         3. pip install time
-        4. pip install client? twilio.rest
+        4. pip install client / twilio.rest
         5. pip install playsound
         6. pip install screen_recorder
         
