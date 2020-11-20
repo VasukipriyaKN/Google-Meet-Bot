@@ -25,4 +25,4 @@ Before using it, get the below listed things done:
         5. Copy the ACCOUNT SID & AUTH TOKEN.
         6. Paste it the respective field inside the Python code.
 
-  6. Lets's Go
+  6. Let's Go
